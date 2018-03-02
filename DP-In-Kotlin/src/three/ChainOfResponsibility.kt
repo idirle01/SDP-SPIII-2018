@@ -14,14 +14,14 @@ class AuthenticationHeader(val token: String?, var next: MessageChain? = null) :
 
 class ContentTypeHeader(val contentType: String, var next: MessageChain? = null) : MessageChain {
 
-    override fun addLines(inputHeader: String): String
-            = "$inputHeader ContentType: $contentType\n".let { next?.addLines(it) ?: it }
+    override fun addLines(inputHeader: String): String = "$inputHeader ContentType: $contentType\n".let {
+        next?.addLines(it) ?: it
+    }
 }
 
 class BodyPayload(val body: String, var next: MessageChain? = null) : MessageChain {
 
-    override fun addLines(inputHeader: String): String
-            = "$inputHeader $body\n".let { next?.addLines(it) ?: it }
+    override fun addLines(inputHeader: String): String = "$inputHeader $body\n".let { next?.addLines(it) ?: it }
 }
 
 fun main(args: Array<String>) {
@@ -38,7 +38,8 @@ fun main(args: Array<String>) {
     println(message)
 }
 
-private fun messageChainWithAuthorization(authenticationHeader: AuthenticationHeader, contentTypeHeader: ContentTypeHeader, messageBody: BodyPayload): MessageChain {
+private fun messageChainWithAuthorization(authenticationHeader: AuthenticationHeader, contentTypeHeader:
+ContentTypeHeader, messageBody: BodyPayload): MessageChain {
     authenticationHeader.next = contentTypeHeader
     contentTypeHeader.next = messageBody
     return authenticationHeader

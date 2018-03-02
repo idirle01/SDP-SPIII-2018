@@ -1,7 +1,5 @@
 package two
 
-import java.util.*
-
 class ComplexSystemStore(val filePath: String) {
 
     init {
@@ -35,7 +33,7 @@ class UserRepository {
 
 fun main(args: Array<String>) {
     val userRepository = UserRepository()
-    val user = User("dbacinski")
+    val user = User("fred")
     userRepository.save(user)
     val resultUser = userRepository.findFirst()
     println("Found stored user: $resultUser")

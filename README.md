@@ -1,7 +1,10 @@
-## The `examples` repository for the SDP/SPIII modules 2018
+## The source code repository for the SDP/SPIII modules 2018
 
-There are three folders here:
+There are several topics here:
 
-+ `courseworks` - has individual folders for each of the IntelliJ projects.
-+ `examples` - as the name suggests. The examples from each week of the course.
-+ `worksheets` - the exercises to attempt throughout the course. Each worksheet is a separate IntelliJ project.
++ `books` - examples from various books.
++ `courseworks` - has individual folders for each of the coursework assignments.
++ `examples` - contains the examples from the various sessions.
++ `help-sessions` - examples from the online help sessions.
++ `revision` - pertinent information for the examination.
++ `videos` - various examples from the `lynda.com` and o'reilly videos.

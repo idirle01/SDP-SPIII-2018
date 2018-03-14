@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/help-sessions/2018-Feb-03/2018-Feb-03.iml" filepath="$PROJECT_DIR$/help-sessions/2018-Feb-03/2018-Feb-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/help-sessions/2018-Feb-06/2018-Feb-06.iml" filepath="$PROJECT_DIR$/help-sessions/2018-Feb-06/2018-Feb-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP-in-Kotlin/DP-in-Kotlin.iml" filepath="$PROJECT_DIR$/DP-in-Kotlin/DP-in-Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns-in-Kotlin/Design-Patterns-in-Kotlin.iml" filepath="$PROJECT_DIR$/Design-Patterns-in-Kotlin/Design-Patterns-in-Kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-two-di/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/week-two-di/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-two-di/HelloWorldDecoupled/HelloWorldDecoupled.iml" filepath="$PROJECT_DIR$/week-two-di/HelloWorldDecoupled/HelloWorldDecoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-two-di/HelloWorldDecoupledInterface/HelloWorldDecoupledInterface.iml" filepath="$PROJECT_DIR$/week-two-di/HelloWorldDecoupledInterface/HelloWorldDecoupledInterface.iml" />
@@ -19,24 +21,35 @@
       <module fileurl="file://$PROJECT_DIR$/coursework-one-SML/coursework-one-SML.iml" filepath="$PROJECT_DIR$/coursework-one-SML/coursework-one-SML.iml" />
       <module fileurl="file://$PROJECT_DIR$/courseworks/coursework-one-java/coursework-one-java.iml" filepath="$PROJECT_DIR$/courseworks/coursework-one-java/coursework-one-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/courseworks/coursework-one-kotlin/coursework-one-kotlin.iml" filepath="$PROJECT_DIR$/courseworks/coursework-one-kotlin/coursework-one-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseworks/cw-group-kotlin/cw-group-kotlin.iml" filepath="$PROJECT_DIR$/courseworks/cw-group-kotlin/cw-group-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseworks/cw-group-scala/cw-group-scala.iml" filepath="$PROJECT_DIR$/courseworks/cw-group-scala/cw-group-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/design-patterns/design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp-banas/dp-banas.iml" filepath="$PROJECT_DIR$/dp-banas/dp-banas.iml" />
       <module fileurl="file://$PROJECT_DIR$/worksheets/dp-one/dp-one.iml" filepath="$PROJECT_DIR$/worksheets/dp-one/dp-one.iml" />
       <module fileurl="file://$PROJECT_DIR$/worksheets/dp-two/dp-two.iml" filepath="$PROJECT_DIR$/worksheets/dp-two/dp-two.iml" />
       <module fileurl="file://$PROJECT_DIR$/worksheets/five/five.iml" filepath="$PROJECT_DIR$/worksheets/five/five.iml" />
       <module fileurl="file://$PROJECT_DIR$/worksheets/four/four.iml" filepath="$PROJECT_DIR$/worksheets/four/four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gof-in-kotlin/gof-in-kotlin.iml" filepath="$PROJECT_DIR$/gof-in-kotlin/gof-in-kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp/java/java.iml" filepath="$PROJECT_DIR$/dp/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/coursework-one-SML/java/java.iml" filepath="$PROJECT_DIR$/coursework-one-SML/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdpe/jdpe.iml" filepath="$PROJECT_DIR$/jdpe/jdpe.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp/kotlin/kotlin.iml" filepath="$PROJECT_DIR$/dp/kotlin/kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/coursework-one-SML/kotlin/kotlin.iml" filepath="$PROJECT_DIR$/coursework-one-SML/kotlin/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-dp-four/kotlin-dp-four.iml" filepath="$PROJECT_DIR$/kotlin-dp-four/kotlin-dp-four.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-dp-one/kotlin-dp-one.iml" filepath="$PROJECT_DIR$/kotlin-dp-one/kotlin-dp-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-dp-three/kotlin-dp-three.iml" filepath="$PROJECT_DIR$/kotlin-dp-three/kotlin-dp-three.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-dp-two/kotlin-dp-two.iml" filepath="$PROJECT_DIR$/kotlin-dp-two/kotlin-dp-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/memoisation-kotlin/memoisation-kotlin.iml" filepath="$PROJECT_DIR$/examples/memoisation-kotlin/memoisation-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/memoisation/memoisation-scala.iml" filepath="$PROJECT_DIR$/examples/memoisation/memoisation-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/mop/mop.iml" filepath="$PROJECT_DIR$/mop/mop.iml" />
       <module fileurl="file://$PROJECT_DIR$/worksheets/one/one.iml" filepath="$PROJECT_DIR$/worksheets/one/one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/reflection-java/reflection-java.iml" filepath="$PROJECT_DIR$/examples/reflection-java/reflection-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp/scala/scala.iml" filepath="$PROJECT_DIR$/dp/scala/scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/coursework-one-SML/scala/scala.iml" filepath="$PROJECT_DIR$/coursework-one-SML/scala/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-dp-four/scala-dp-four.iml" filepath="$PROJECT_DIR$/scala-dp-four/scala-dp-four.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-dp-one/scala-dp-one.iml" filepath="$PROJECT_DIR$/scala-dp-one/scala-dp-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-dp-three/scala-dp-three.iml" filepath="$PROJECT_DIR$/scala-dp-three/scala-dp-three.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-dp-two/scala-dp-two.iml" filepath="$PROJECT_DIR$/scala-dp-two/scala-dp-two.iml" />
       <module fileurl="file://$PROJECT_DIR$/worksheets/three/three.iml" filepath="$PROJECT_DIR$/worksheets/three/three.iml" />
       <module fileurl="file://$PROJECT_DIR$/worksheets/two/two.iml" filepath="$PROJECT_DIR$/worksheets/two/two.iml" />
@@ -45,6 +58,8 @@
       <module fileurl="file://$PROJECT_DIR$/week-one-java-examples/week-one-java-examples.iml" filepath="$PROJECT_DIR$/week-one-java-examples/week-one-java-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-one-kotlin-examples/week-one-kotlin-examples.iml" filepath="$PROJECT_DIR$/week-one-kotlin-examples/week-one-kotlin-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-one-scala-examples/week-one-scala-examples.iml" filepath="$PROJECT_DIR$/week-one-scala-examples/week-one-scala-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/week-ten/week-ten.iml" filepath="$PROJECT_DIR$/examples/week-ten/week-ten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week-ten new/week-ten new.iml" filepath="$PROJECT_DIR$/week-ten new/week-ten new.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/week-three/week-three.iml" filepath="$PROJECT_DIR$/examples/week-three/week-three.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-three/week-three.iml" filepath="$PROJECT_DIR$/week-three/week-three.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-two-di/week-two-di.iml" filepath="$PROJECT_DIR$/week-two-di/week-two-di.iml" />
@@ -54,6 +69,7 @@
       <module fileurl="file://$PROJECT_DIR$/week-two-java/week-two-java.iml" filepath="$PROJECT_DIR$/week-two-java/week-two-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-two-solid/week-two-solid.iml" filepath="$PROJECT_DIR$/week-two-solid/week-two-solid.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-two-solid-java/week-two-solid-java.iml" filepath="$PROJECT_DIR$/week-two-solid-java/week-two-solid-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/week10/week10.iml" filepath="$PROJECT_DIR$/examples/week10/week10.iml" />
     </modules>
   </component>
 </project>

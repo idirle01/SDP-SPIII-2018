@@ -21,10 +21,6 @@ fun cycle(f1: IntFunction, f2: IntFunction, f3: IntFunction): (Int) -> IntFuncti
             }
         }
 
-fun add1(x: Int) = x + 1
-fun times2(x: Int) = x * 2
-fun add3(x: Int) = x + 3
-
 fun main(args: Array<String>) {
 //    println(cycle(::add1, ::times2, ::add3)(5))
     val myCycle = cycle(::add1, ::times2, ::add3)

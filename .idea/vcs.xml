@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dp-in-kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gof-in-kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/videos/oreilly-kotlin-course" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/worksheets/worksheet01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/worksheets/worksheet02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/worksheets/worksheet03" vcs="Git" />
   </component>
 </project>

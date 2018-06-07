@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/help-sessions.iml" filepath="$PROJECT_DIR$/.idea/help-sessions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/help-sessions.iml" filepath="$PROJECT_DIR$/help-sessions.iml" />
+    </modules>
+  </component>
+</project>

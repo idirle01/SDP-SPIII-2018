@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cc7c2a0-47a2-455b-b82a-70067807a181" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/coursework-one-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/sml/AddInstruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/sml/Instruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/sml/Labels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/sml/LinInstruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/sml/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/sml/Registers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/sml/Translator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/test1.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-java/src/test2.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/coursework-one-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/Instruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/Labels.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/Machine.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/Registers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/instructions/AddInstruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/instructions/LinInstruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/instructions/NoOpInstruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/src/sml/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/test1.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/test2.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-kotlin/test3.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/coursework-one-SML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/coursework-one-scala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/src/sml/AddInstruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/src/sml/Instruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/src/sml/Labels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/src/sml/LinInstruction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/src/sml/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/src/sml/Registers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/src/sml/Translator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/test1.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/java/test2.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/Instruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/Labels.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/Machine.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/Registers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/instructions/AddInstruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/instructions/LinInstruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/instructions/NoOpInstruction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/src/sml/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/test1.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/kotlin/test2.sml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/scala/scala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/src/sml/AddInstruction.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/src/sml/Instruction.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/src/sml/Labels.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/src/sml/LinInstruction.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/src/sml/Machine.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/src/sml/Registers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/coursework-one-scala/src/sml/Translator.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-kotlin/cw-group-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-kotlin/src/Factory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-kotlin/src/Game.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-kotlin/src/GameAbstractImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-kotlin/src/Mastermind.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-kotlin/src/SampleOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-scala/cw-group-scala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-scala/src/Factory.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-scala/src/Game.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-scala/src/GameAbstractImpl.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-scala/src/MastermindDriver.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/cw-group-scala/src/SampleOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../courseworks/dominoes/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/Bone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/BoneYard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/CantPlayException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/CubbyHole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/DominoUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/Dominoes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/InvalidPlayException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/Play.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../courseworks/dominoes/dominoes/players/DominoPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dp-videos/kotlin/src/observer/observer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../dp-videos/kotlin/src/observer/observer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/week02-di/src/HelloWorldSpringWithDIXMLFileConstructorArgument/src/main/java/helloworld/ConfigurableMessageProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/week02-di/src/HelloWorldSpringWithDIXMLFileConstructorArgument/src/main/java/helloworld/HelloWorldSpringWithDIXMLFileConstructorArgument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../examples/week10-scala/src/currying.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../examples/week10-scala/src/currying.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gof-in-kotlin" beforeDir="false" afterPath="$PROJECT_DIR$/../gof-in-kotlin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/scala-examples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Aspect.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Cell.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Doubling.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Family.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Foo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Rational.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Slides.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Slides2.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../revision/essential-scala/src/Stack.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/02_01/End/GradleLab/out/production/GradleLab/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/02_03/Begin/GradleLab/out/production/GradleLab/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/02_03/End/GradleLab/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/02_04/End/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/02_05/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/02_06/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/03_01/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/03_01/End/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/03_02/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/03_02/End/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/03_02/End/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/04_01/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/04_01/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/04_02/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/04_02/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/04_03/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/04_03/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_01/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_01/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_02/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_02/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_03/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_03/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_03/End/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_03/End/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_04/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_04/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_04/End/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_04/End/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_05/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_05/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_05/End/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_05/End/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_05/End/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/05_05/End/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDatePlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_01/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_01/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_01/Begin/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_01/Begin/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDatePlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/Begin/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/Begin/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/Begin/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/Begin/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDatePlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/End/java-project/build/classes/main/info/garagesalesapp/domain/SaleEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/End/java-project/json-display/build/classes/main/info/garagesalesapp/domain/JsonDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/End/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Gradle_Java_Dev/Exercise Files/06_02/End/java-project/show-date/build/classes/main/info/garagesalesapp/plugin/ShowDatePlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch02/02_02_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_02_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_02_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_03_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_03_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_04_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_04_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_05_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_05_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_06_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_06_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_07_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_07_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_08_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_08_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_09_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch03/03_09_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_01_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_01_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_01_start/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_02_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_02_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_02_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_02_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_03_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch04/04_04_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_01_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch05/05_02_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_01_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_02_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_03_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_04_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch06/06_05_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_02_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_03_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_04_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_05_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$add5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$multiplyBy2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_06_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$add5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$multiplyBy2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$sum3ints$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$add5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$multiplyBy2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_07_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$add5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$multiplyBy2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$prefixAndPosfix$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$sum3ints$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$add5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$multiplyBy2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$sum3ints$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_08_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$add5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$multiplyBy2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$prefixAndPosfix$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$functional$sum3ints$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$memo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$memo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$memo$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$memo$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$memo$fibonacci$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt$memo$m$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_end/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/ClosureKt$closureMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/ClosureKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/CollectionMatchers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt$main$location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/DslKt$unitTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/DslKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$add5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$multiplyBy2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$prefixAndPosfix$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/FunctionalKt$functional$sum3ints$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/FunctionalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/HelloWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/LambdasKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Matcher$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Matcher$or$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Matcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/MaxKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$evenSquares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$fib$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$numbers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/SequencesKt$sequences$squares$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/SequencesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Vehicle$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/Ex_Files_Kotlin_Java_Devs/Exercise Files/Ch07/07_09_start/build/classes/main/com/tekadept/demo/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../videos/oreilly-kotlin-course" beforeDir="false" afterPath="$PROJECT_DIR$/../videos/oreilly-kotlin-course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../worksheets/worksheet01" beforeDir="false" afterPath="$PROJECT_DIR$/../worksheets/worksheet01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../worksheets/worksheet02" beforeDir="false" afterPath="$PROJECT_DIR$/../worksheets/worksheet02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../worksheets/worksheet03" beforeDir="false" afterPath="$PROJECT_DIR$/../worksheets/worksheet03" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lists.kt" />
+        <option value="$PROJECT_DIR$/src/List.kt" />
+        <option value="$PROJECT_DIR$/src/ListTest.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="29" />
+    <option name="width" value="1920" />
+    <option name="height" value="1146" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="3-6-2018">
+        <observation name="false" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="3-6-2018">
+        <observation name="false" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="true" value="38.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="20.0" />
+        <observation name="true" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="20.0" />
+        <observation name="true" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="20.0" />
+        <observation name="true" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="false" value="38.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="3-6-2018">
+        <observation name="false" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="unknown" value="38.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="null" value="38.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="unknown" value="38.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="3-6-2018">
+        <observation name="cancelled" value="77.0" />
+        <observation name="explicitSelect" value="2.0" />
+        <observation name="typedSelect" value="51.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="3-6-2018">
+        <observation name="BASIC" value="64.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="3-6-2018">
+        <observation name="count" value="130.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="-1128.238095" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="25334.497704" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="32.0" />
+        <observation name="count" value="75.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="7005.673184" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="75.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="0.96" />
+        <observation name="count" value="75.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.703985" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="75.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="7.114286" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="12.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="11.895875" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="53.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="190.47619" />
+        <observation name="count" value="105.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="1655468.438754" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="3-6-2018">
+        <observation name="0" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="3-6-2018">
+        <observation name="0" value="1.0" />
+        <observation name="1" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="208.236486" />
+        <observation name="count" value="148.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="help-sessions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="help-sessions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528362441887" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528362441888" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="help-sessions" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ListTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cc7c2a0-47a2-455b-b82a-70067807a181" name="Default" comment="" />
+      <created>1528016100273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528016100273</updated>
+      <workItem from="1528016107308" duration="217000" />
+      <workItem from="1528016378113" duration="7000" />
+      <workItem from="1528018900065" duration="3625000" />
+      <workItem from="1528023364135" duration="130000" />
+      <workItem from="1528362152309" duration="8000" />
+      <workItem from="1528362354947" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ListTest - 2018.06.03 at 11h 32m 42s.xml">
+      <configuration name="ListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListTest - 2018.06.03 at 11h 47m 31s.xml">
+      <configuration name="ListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListTest - 2018.06.03 at 11h 48m 34s.xml">
+      <configuration name="ListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListTest - 2018.06.03 at 11h 48m 54s.xml">
+      <configuration name="ListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListTest - 2018.06.03 at 11h 51m 27s.xml">
+      <configuration name="ListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListTest - 2018.06.03 at 11h 57m 40s.xml">
+      <configuration name="ListTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4075000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="29" width="1920" height="1146" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2630458" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.32922202" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.32922202" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32922202" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/List.kt" />
+    <entry file="file://$PROJECT_DIR$/src/ListTest.kt" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

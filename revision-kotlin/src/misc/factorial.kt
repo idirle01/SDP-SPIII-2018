@@ -1,8 +1,3 @@
-package a
-
-import java.math.BigInteger
-
-
 fun main(args: Array<String>) {
     val factorials: List<Long> = listOf(2, 5, 7, 8, 10, 11, 14, 16)
 

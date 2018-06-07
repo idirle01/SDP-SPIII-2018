@@ -1,5 +1,7 @@
 package misc
 
+import kotlin.system.measureTimeMillis
+
 
 fun <T> merge(lstA: List<T>, lstB: List<T>, cmp: (T, T) -> Boolean): List<T> = when {
     lstA.isEmpty() -> lstB
@@ -17,7 +19,7 @@ fun <T> merge(lstA: List<T>, lstB: List<T>, cmp: (T, T) -> Boolean): List<T> = w
 
 
 fun <T> merge2(lstA: List<T>, lstB: List<T>, cmp: (T, T) -> Boolean): List<T> {
-    fun loop(tmpAs: List<T>, tmpBs: List<T>, tmpRes: List<T>): List<T> = when {
+    tailrec fun loop(tmpAs: List<T>, tmpBs: List<T>, tmpRes: List<T>): List<T> = when {
         tmpAs.isEmpty() -> tmpRes.reversed() + tmpBs
         tmpBs.isEmpty() -> tmpRes.reversed() + tmpAs
         else -> {
@@ -33,7 +35,13 @@ fun <T> merge2(lstA: List<T>, lstB: List<T>, cmp: (T, T) -> Boolean): List<T> {
 }
 
 fun main(args: Array<String>) {
-    println(merge(listOf(1, 4, 7, 10, 11), listOf(2, 3, 5, 7, 12, 16), { x, y -> x <= y }))
-    println(merge2(listOf(1, 4, 7, 10, 11), listOf(2, 3, 5, 7, 12, 16), { x, y -> x <= y }))
+    val time1 = measureTimeMillis {
+        println(merge(listOf(1, 4, 7, 10, 11), listOf(2, 3, 5, 7, 12, 16), { x, y -> x <= y }))
+    }
+    val time2 = measureTimeMillis {
+        println(merge2(listOf(1, 4, 7, 10, 11), listOf(2, 3, 5, 7, 12, 16), { x, y -> x <= y }))
+    }
+    println("Time for recursion: $time1; Time for tail recursion: $time2")
+
     // listOf(1, 2, 3, 4, 5, 7, 7, 10, 11, 12, 16)
 }
